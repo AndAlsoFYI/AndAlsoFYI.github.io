@@ -1,2 +1,2 @@
 # NotTheDBA.github.io
-# {{ site.baseurl }}{% link HW-Wireframe/index.html %}
+[html skeleton] (https://notthedba.github.io/HW-Wireframe/index.html)
