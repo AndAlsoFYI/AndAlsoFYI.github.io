@@ -2,7 +2,7 @@
 
 HTML / CSS (demos)
 
-[Reponsive Portfolio](https://andalsofyi.github.io/responsive-portfolio-2)
+[Responsive Portfolio](https://andalsofyi.github.io/responsive-portfolio-2)
 
 [Fare Optimizer](https://andalsofyi.github.io/septa-fare-optimizer/)
 
@@ -11,9 +11,9 @@ HTML / CSS (demos)
 
 ASP.NET / C# / MVC / EF (repos)
 
-[iTunes Search Case Study](https://github.com/AndAlsoFYI/itunes_search_casestudy)
+[iTunes Search Case Study](https://github.com/AndAlsoFYI/itunes_search)
 
-[Vidly Tutorial App](https://github.com/AndAlsoFYI/complete-aspnet-mvc5)
+[Vidly Tutorial App](https://github.com/AndAlsoFYI/vidly)
 
 C# (repos)
 
